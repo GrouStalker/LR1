@@ -1,7 +1,6 @@
 // R=21/38
 /*1 Вариант*/
-/*Hi */
-/*Here we go again..*/
+/*Ааааааааааааааааааааааа*/
 #include <iostream>
 #include <iomanip>
 
