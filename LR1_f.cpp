@@ -1,5 +1,6 @@
 // R=21/38
 /*1 Вариант*/
+/*Проверка GIT */
 #include <iostream>
 #include <iomanip>
 
